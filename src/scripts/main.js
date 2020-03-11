@@ -3,6 +3,8 @@ import functions from './functions.js';
 
 // Event listener for SIZE app
 
+// MODFIELD FOR BUTTON COLOR
+
 // mainDiv.addEventListener('click', ((e) => {
 //     console.log(e.target);
 // }));
