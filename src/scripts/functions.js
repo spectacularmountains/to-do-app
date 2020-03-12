@@ -2,7 +2,10 @@ const ol = document.getElementById("list");
 
 // TEST COMMENT
 // AND ANOTHER ONE CREATED IN TEMP DIRECTORY
-// CONFLICT COMMENT!!
+<<<<<<< HEAD
+=======
+// THIRD COMMENT
+>>>>>>> 00107736dbe719c4286a8ccbc032b4b86cd62cf0
 
 const functions = {
            
